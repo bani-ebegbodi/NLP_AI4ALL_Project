@@ -63,5 +63,5 @@ List the names and contact information (e.g., email, GitHub profiles) of the aut
 
 *EXAMPLE:*
 *This project was completed in collaboration with:*
-- *John Doe ([john.doe@example.com](mailto:john.doe@example.com))*
+- *Banibe Ebegbodi ([john.doe@example.com](mailto:john.doe@example.com))*
 - *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
