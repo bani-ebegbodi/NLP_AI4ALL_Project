@@ -1,4 +1,4 @@
-# (UPDATE IN README.md) Project Title
+# Do tweets with extreme sentiment about OpenAI and Chat-GPT receive more engagement compared to neutral sentiments?
 
 (UPDATE IN README.md)
 Briefly describe the purpose/result(s) of your project, the skills you applied, and the Apply AI program.
