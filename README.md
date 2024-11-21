@@ -39,11 +39,7 @@ Enumerate the main results of this project in a list and describe them.
 
 ## Data Sources <!--- do not change this line -->
 
-(UPDATE IN README.md)
-Include any relevant data sources that were used in your project.
-
-*EXAMPLE:*
-*Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets)*
+*Comprehensive Sentiment Analysis Dataset: [Link to Kaggle Dataset]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/evilspirit05/tweet-gpt))*
 
 ## Technologies Used <!--- do not change this line -->
 
