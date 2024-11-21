@@ -21,7 +21,7 @@ Primary Findings:
 1. *Weak Correlation Between Sentiment and Engagement*:
    - Sentiment expressed in tweets (neutral, positive, or negative) showed little to no correlation with likes and retweets.
    - Analyses using Pearson’s correlation, linear regression, and visualization methods consistently indicated poor predictive power of sentiment for engagement.
-   - 
+     
 2. *Influence of Sensationalism*:
    - The dataset was collected shortly after Chat-GPT 4’s release, during a period of high public interest and media hype.
    - Engagement may have been driven by the novelty of the technology rather than by the sentiment of the tweets.
@@ -29,16 +29,33 @@ Primary Findings:
 3. *Insights from Sentiment Analysis*:
    - Most tweets expressed neutral sentiment, followed by positive and negative sentiments.
    - Words associated with specific sentiment categories offered insights into user opinions and concerns about Chat-GPT.
-   - =Predictive models like logistic regression and random forests performed poorly, reinforcing the weak correlation.
+   - Predictive models like logistic regression and random forests performed poorly, reinforcing the weak correlation.
 
 
 ## Methodologies <!--- do not change this line -->
 
-(UPDATE IN README.md)
+To achieve our research objectives, we employed a multi-step methodology involving data collection, preprocessing, and advanced analysis techniques:
 
-*EXAMPLE:*
-*To accomplish this, we utilized the OpenAI API to interact with ChatGPT, and we designed a custom Python script to generate diverse prompts and collect corresponding responses. The data was then processed and analyzed using pandas, enabling us to detect patterns and biases in the AI model's outputs.*
-*Engineered a Python script to generate over 1,000 prompts and elicit their responses from ChatGPT, utilizing pandas to collect the data. When prompted for solutions to this specific relevant crisis, nearly 80% of ChatGPT's responses promoted a certain worldview.*
+1. *Data Collection and Preprocessing*:
+   - Downloaded Kaggle dataset of tweets related to Chat-GPT 4, which includied sentiment scores and engagement metrics like likes and retweets.
+   - Cleaned and processed the data by handling missing values, removing outliers, and standardizing text for analysis.
+
+2. *Feature Engineering*:
+   - Created custom metrics such as "engagement" (sum of likes and retweets) and "engagement_per_follower" to provide deeper insights into user interactions.
+
+3. *Exploratory Data Analysis*:
+   - Analyzed data distributions, calculated correlation coefficients, and visualized relationships between sentiment and engagement using scatter plots, box plots, and heatmaps.
+
+4. *Sentiment Analysis*:
+   - Leveraged pre-existing sentiment scores and constructed a sentiment analysis model to categorize tweets into positive, neutral, or negative sentiments.
+   - Extracted influential words from each sentiment category to better understand public opinion.
+
+5. *Machine Learning Models*:
+   - Applied Linear Regression, Logistic Regression, and Random Forest Classifier to evaluate the relationship between sentiment and engagement.
+   - Assessed model performance using metrics like R-squared for regression models and precision, recall, and F1-scores for classification models.
+
+6. *Data Visualization*:
+   - Generated detailed plots and charts to effectively communicate findings, emphasizing the weak correlation between sentiment and engagement.
 
 
 ## Data Sources <!--- do not change this line -->
