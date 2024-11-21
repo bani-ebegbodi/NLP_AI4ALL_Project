@@ -1,10 +1,11 @@
 # Do tweets with extreme sentiment about OpenAI and Chat-GPT receive more engagement compared to neutral sentiments?
 
-(UPDATE IN README.md)
-Briefly describe the purpose/result(s) of your project, the skills you applied, and the Apply AI program.
 
-*EXAMPLE:*
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
+*The project aimed to investigate the relationship between sentiment and engagement on Twitter, specifically focusing on tweets related to OpenAI and ChatGPT after the release of ChatGPT-4.*
+
+*The analysis revealed a weak correlation between sentiment (positive, negative, neutral) and engagement metrics (likes, retweets, engagement per follower). This suggests that extreme sentiment might not be the primary driver of engagement for tweets about OpenAI and ChatGPT during the studied period, potentially influenced by sensationalism surrounding the release of ChatGPT-4.*
+
+*Our group utilized advanced Python techniques and data analysis methodologies, such as pre-processing, feature engineering, sentiment analysis, and data visualization, all within AI4ALL's AI4ALL Ignite accelerator program.*
 
 
 ## Problem Statement <!--- do not change this line -->
