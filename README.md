@@ -39,25 +39,22 @@ Enumerate the main results of this project in a list and describe them.
 
 ## Data Sources <!--- do not change this line -->
 
-*Comprehensive Sentiment Analysis Dataset: ([Kaggle Dataset](https://www.kaggle.com/datasets/evilspirit05/tweet-gpt))*
+*Comprehensive Sentiment Analysis Dataset: [Kaggle Dataset](https://www.kaggle.com/datasets/evilspirit05/tweet-gpt)*
 
 ## Technologies Used <!--- do not change this line -->
 
-(UPDATE IN README.md)
-List the technologies, libraries, and frameworks used in your project.
+List of the technologies, libraries, and frameworks used in the project.
 
-*EXAMPLE:*
 - *Python*
 - *pandas*
-- *OpenAI API*
+- *NumPy*
+- *Matplotlib*
+- *Seaborn*
+- *Scikit-Learn*
 
 
 ## Authors <!--- do not change this line -->
 
-(UPDATE IN README.md)
-List the names and contact information (e.g., email, GitHub profiles) of the authors or contributors.
-
-*EXAMPLE:*
 *This project was completed in collaboration with:*
-- *Banibe Ebegbodi ([john.doe@example.com](mailto:john.doe@example.com))*
-- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- *Banibe Ebegbodi ([bani.ebegbodi@gmail.com](mailto:bani.ebegbodi@gmail.com))*
+- *Viktoriia Sokolenko ([viktoriia.i.sokolenko@gmail.com](mailto:viktoriia.i.sokolenko@gmail.com))*
