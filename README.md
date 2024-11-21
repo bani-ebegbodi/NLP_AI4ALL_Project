@@ -12,7 +12,7 @@
 
 The motivation for this project, why it is relevant, and what its impacts are.
 
-*As AI technologies like Chat-GPT 4 become integrate in our daily life, understanding public perception during periods of heightened attention is essential. This project focuses on examining whether extreme sentiment (positive or negative) further influences engagement on a popular and sensationalized topic like Chat-GPT. By exploring this link, the research challenges the assumption that extreme sentiment drives higher interaction and encourages a shift away from sensationalism in tech reporting and social media. These findings can help platforms like Twitter refine their algorithms to prioritize informative and balanced content during major product launches. The project promotes a more thoughtful approach to technology adoption and encourages critical evaluation over impulsive reactions to hype.*
+*As AI technologies like Chat-GPT 4 become integrate in our daily life, understanding public perception during periods of heightened attention is essential. This project focuses on examining whether extreme sentiment (positive or negative) further influences engagement on a popular and sensationalized topic like Chat-GPT. By exploring this link, the research challenges the assumption that extreme sentiment drives higher interaction and encourages a shift away from sensationalism in tech reporting and social media. These findings can help platforms like Twitter refine their algorithms to prioritize informative and balanced content during major product launches. Our project promotes a more thoughtful approach to technology adoption and encourages critical evaluation over impulsive reactions to hype.*
 
 ## Key Results <!--- do not change this line -->
 
