@@ -39,7 +39,7 @@ Enumerate the main results of this project in a list and describe them.
 
 ## Data Sources <!--- do not change this line -->
 
-*Comprehensive Sentiment Analysis Dataset: [Link to Kaggle Dataset]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/evilspirit05/tweet-gpt))*
+*Comprehensive Sentiment Analysis Dataset: [Kangle Dataset]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/evilspirit05/tweet-gpt)*
 
 ## Technologies Used <!--- do not change this line -->
 
